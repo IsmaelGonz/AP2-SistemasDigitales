@@ -116,7 +116,6 @@ AP2-SistemasDigitales/
 - **Sin suite de pruebas automatizadas** en el repositorio (`.ino`/sketches para Arduino/ESP32). No se ejecutaron pruebas unitarias/integradas en este entorno.
 - **Sin errores evidentes** detectados en la revisión del código fuente.
 
-## Evidencia en video
+## Evidencia 
 
-- [evidencias/IMG_0809.mov](evidencias/IMG_0809.mov)
 - [Evidencia de video (GitHub)](https://github.com/user-attachments/assets/9817ad55-25e1-4eda-92e6-f49e4c679b99)
